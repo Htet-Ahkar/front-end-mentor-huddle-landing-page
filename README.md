@@ -1,4 +1,4 @@
-# TailwindCss-Tutorials
+# Styled-Component Tutorial
 
 ## Desktop
 ![Desktop](https://user-images.githubusercontent.com/79957627/140604390-887fb7de-60c6-46f1-90bd-18c98676c3d2.JPG)
